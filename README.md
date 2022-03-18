@@ -1,5 +1,5 @@
-## 100 days of Java Code 
-100 days of Java Code :- is a program for coding 100 days in Java programming language.
+## 50 days of Java Code 
+#### `50 days of Java Code :- is a program for coding 100 days in Java programming language.`
 
 ### What You Will Learn for This 100 days.
 
